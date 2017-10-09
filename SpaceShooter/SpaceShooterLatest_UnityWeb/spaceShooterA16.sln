@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A96046D1-6AF9-700F-FA1E-E7AE1FF64027}") = "spaceShooterA16", "Assembly-UnityScript.unityproj", "{E9D7E901-75A8-0B28-5CF3-2F6AF3CCDBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D7E901-75A8-0B28-5CF3-2F6AF3CCDBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D7E901-75A8-0B28-5CF3-2F6AF3CCDBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D7E901-75A8-0B28-5CF3-2F6AF3CCDBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D7E901-75A8-0B28-5CF3-2F6AF3CCDBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

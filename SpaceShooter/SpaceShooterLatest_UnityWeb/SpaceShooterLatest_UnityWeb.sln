@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{77425368-81CF-1AB0-C3B1-A3414803D2BB}") = "SpaceShooterLatest_UnityWeb", "Assembly-UnityScript.unityproj", "{FC76AEB1-6673-496A-9838-65EDAEBC0355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC76AEB1-6673-496A-9838-65EDAEBC0355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC76AEB1-6673-496A-9838-65EDAEBC0355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC76AEB1-6673-496A-9838-65EDAEBC0355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC76AEB1-6673-496A-9838-65EDAEBC0355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
